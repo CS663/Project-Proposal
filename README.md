@@ -46,5 +46,5 @@ Optional Section: CNN
 - Initial interface that provides a button to start the application and capture image.
 - The result interface that will show text label name and macronutrient information. 
 
-
+![GUI](draft1diagram.png)
 
