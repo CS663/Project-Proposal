@@ -53,4 +53,4 @@ We have the following system components:
 2.	The result interface that will show facial feature classification.
 
  
-![image](https://github.com/CS663/Project-Proposal/blob/main/Picture1.png)
+![image](https://github.com/CS663/Project-Proposal/blob/main/New%20Wireframe%201.png)
