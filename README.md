@@ -41,7 +41,7 @@ We have the following system components:
 2.	Minimum three layer convolutional neural network with n input and 7 output (7 facial expression classification)
 3.	Training data using FER-2013 database. The Fer2013 dataset from kaggle has more than 30,000 images covering almost all the facial expressions of humans. It contains training data with pre-labeled 7 classification in facial expression.
 
-![image](https://github.com/CS663/Project-Proposal/blob/main/emotionDetection.png)
+![image](https://github.com/CS663/Project-Proposal/blob/main/emotionDetection.PNG)
 
 # Section 3.4 Reporting Results: 
 	The App will show labeled images with classified facial expressions, such as anger, sadness, or surprised.
